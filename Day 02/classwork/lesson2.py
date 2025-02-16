@@ -1,0 +1,5 @@
+print("data tipes:")
+print("string- ყველაფერი რაც ჩასმულია ბრჭყალებში")
+print("float- წილადი/არამთლი რიცხვი")
+print("boolean- აქვს ორი მნიშვნელობა")
+print("integar- ყველა მთელი რიცხვი")
